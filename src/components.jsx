@@ -95,7 +95,7 @@ const WinnerMetal = styled.div`
   ${props =>
     props.winner &&
     `color: black;
-font-size: 40px;
+font-size: 47px;
 width:460px;
 text-align:center;
 border: solid #fc3251 4px;
