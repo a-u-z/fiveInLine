@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fiveInLine/static/css/main.ee55d401.chunk.css",
+    "main.js": "/fiveInLine/static/js/main.31e4a336.chunk.js",
+    "main.js.map": "/fiveInLine/static/js/main.31e4a336.chunk.js.map",
+    "runtime-main.js": "/fiveInLine/static/js/runtime-main.6e7c1d84.js",
+    "runtime-main.js.map": "/fiveInLine/static/js/runtime-main.6e7c1d84.js.map",
+    "static/js/2.9f3b9f2c.chunk.js": "/fiveInLine/static/js/2.9f3b9f2c.chunk.js",
+    "static/js/2.9f3b9f2c.chunk.js.map": "/fiveInLine/static/js/2.9f3b9f2c.chunk.js.map",
+    "index.html": "/fiveInLine/index.html",
+    "static/css/main.ee55d401.chunk.css.map": "/fiveInLine/static/css/main.ee55d401.chunk.css.map",
+    "static/js/2.9f3b9f2c.chunk.js.LICENSE.txt": "/fiveInLine/static/js/2.9f3b9f2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e7c1d84.js",
+    "static/js/2.9f3b9f2c.chunk.js",
+    "static/css/main.ee55d401.chunk.css",
+    "static/js/main.31e4a336.chunk.js"
+  ]
+}
